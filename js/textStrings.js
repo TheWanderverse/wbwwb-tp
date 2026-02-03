@@ -822,3 +822,104 @@ var textStrings_TR = {
 	// (quote0004.png)
 	"misatrributed": "(yanlış bir şekilde ona atfedilir)",
 };
+var textStrings_TP = {
+	// Act 1
+	"niceHat": "AAA LEN LAWA PONA A",
+	"outtaHere": "aaa o weka a tan ma ni",
+	"getARoom": "JAKI A, O PINI E JAKI NI",
+	"notCoolAnymore": "tenpo ni la len lawa li pona ala",
+	"tvOnTv": "SITELEN TAWA...LI INSA SITELEN TAWA!",
+	"cricky": "PIPI LILI A <3",
+	"tooManyCrickets": "ike a ni li pipi mute",
+	"normalPeep": "jan li lon",
+	"normalPeeps": "kulupu jan li lon",
+	"wowNothing": "WAWA AAA, NI LI ALA",
+
+	// Act 2
+	"crazySquareAttacks": "LEKO LI KAMA UTALA",
+	"justMissed": "aaaaaa tenpo ike a",
+	"somethingInteresting": "(sina wile sitelen e ijo *musi* tan jan ni...)",
+	"whoIsScreaming": "(sina wile sitelen e jan pi kalama wawa)",
+	"circleFearsSquares": "SIKE LI PILIN MONSUTA TAN LEKO",
+	"whoScaresThem": "(jan ni li pilin monsuta *tan* jan ante la sina wile sitelen e jan ante)",
+	"areTheyScared": "(jan ni li pilin monsuta *e* jan ante la sina wile sitelen e jan ante)", // not used
+	"squaresSnubCircles": "SIKE LI JAKI TAWA LEKO",
+	"areTheySnubbed": "(leko li pilin jaki tan sike la sina wile sitelen e ona)", // not used
+	"everyoneHates": "JAN ALE LI IKE TAWA JAN ALE!!1!",
+	"almostEveryoneHates": "JAN MUTE LI IKE TAWA JAN MUTE...",
+	"squaresHateCircles": "SIKE LI IKE TAWA LEKO",
+	"circlesHateSquares": "LEKO LI IKE TAWA SIKE",
+	"areTheyYelling": "(jan ni li *kalama wawa* tawa jan ante la sina wile sitelen e ona", // not used
+	"nerdsNow": "jan nasa ni li seme",
+	"schockedPeep": "jan ni li pilin monsuta tan seme?",
+	"whatever": "kijetesantakalu",
+
+	// Act 3
+	"ellipsis": ". . .",
+	"coolNoMore": "len lawa li kama pona ala. sina sona ala sona?",
+	"beScared": "O MONSUTA. O UTALA.",
+
+	// MANIFESTO
+	"manifesto": [
+		//"as if you viewers want GOOD news"       ,
+		"jan seme li wile lukin e jan pi *pana pona*?",
+		"pona li ike. utala li musi.",
+		//"peace is boring. conflict gets clicks." ,
+		"kin toki musi ale li wile e utala la...",
+		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
+		"...JAN PI WILE MUSI O KAMA JO E MUSI."
+	],
+
+	// -- Strings currently in graphics resources --
+
+	// (bg_preload.png) Preload screen
+	"playingTime": "tenpo musi pi musi ni li lili a",
+	"warning": "o awen! musi ni li jo e sitelen\nni: pilin jaki en utala en\nmoli mute. sina o sona e\nken sina pi pilin ike.",
+
+	// (cam-instructions.png) Camera Instructions
+	"pointAndClick": "ALASA EN NENA",
+
+	// (chyron3.png)
+	"chyronNothing": "WAWA AAA, NI LI *ALA*",
+
+	// (credits0001.png)
+	"createdBy": "musi ni li tan",
+	"NickyCase": "jan Nicky Case",
+
+	// (credits0002.png)
+	"manyThanks": "mi wile pana e pona mute tawa jan mi pi alasa pakala:",
+
+	// (credits000[3,4,5,6].png)
+	"patreonSupporters": "kin pona tawa jan mi pi pana mani:",
+
+	// (credits0007.png)
+	"lastButNotLeast": "kin pini la,",
+
+	// (credits0008.png)
+	"thankYouForPlaying": "sina musi la, pona tawa SINA!",
+
+	// (preload_play.png)
+	"playButton": "O MUSI",
+
+	// (end_button.png) Post Credits
+	"otherWorkButton": "o lukin e pali ante mi",
+	"buyCoffeeButton": "o pana e mani tawa mi",
+	"replayButton": "o musi e pakala ni lon tenpo sin",
+
+	// (logo.png) Post Credits
+	"logoWBWWB": "O PANA E IKE:",
+
+	// (end_prototype.png)
+	"endOfPrototype": "PINI PI MUSI SIN NANPA WAN",
+	"toBeContinued": "(musi mute li kama!)",
+
+	// (quote0002.png)
+	"WBWWB": "mi ale li jo e ijo la, mi ale li kama ijo ni.",
+	"WSOTATOTSU": "jan li pali e ilo la, ilo li pali e jan.",
+
+	// (quote0003.png)
+	"MarshallMcLuhan": "jan Marshall McLuhan",
+
+	// (quote0004.png)
+	"misatrributed": "(taso toki ni li tan jan ante)",
+};
