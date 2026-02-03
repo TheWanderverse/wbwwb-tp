@@ -9,7 +9,9 @@
 ### ante toki ni li tan ijo Tojoko.
 
 mi pali e ante toki ni tan **mun pi ante toki** lon [ma pona pi toki pona (ilo Siko)](https://discord.gg/nW9XP78M)
+
 *jan ale* li ken kepeken e sitelen e toki pi ilo nanpa lon musi ni tan [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/).
+
 taso, jan Nicky Case li pali ala e ijo *ale* lon musi ona. o lukin e pali pi jan ante lon anpa:
 
 **toki pi ilo nanpa:**    
