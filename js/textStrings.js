@@ -923,3 +923,5 @@ var textStrings_TP = {
 	// (quote0004.png)
 	"misatrributed": "(taso toki ni li tan jan ante)",
 };
+
+var textStrings = textStrings_TP;
