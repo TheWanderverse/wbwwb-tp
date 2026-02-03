@@ -877,7 +877,7 @@ var textStrings_TP = {
 	"warning": "o awen! musi ni li jo e sitelen\nni: pilin jaki en utala en\nmoli mute. sina o sona e\nken sina pi pilin ike.",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "ALASA EN NENA",
+	"pointAndClick": "O ALASA EN NENA",
 
 	// (chyron3.png)
 	"chyronNothing": "WAWA AAA, NI LI *ALA*",
