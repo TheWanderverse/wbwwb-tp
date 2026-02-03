@@ -1,23 +1,23 @@
-# DEAR ASPIRING TRANSLATORS, PLEASE CHECK THE MAIN PAGE DESCRIPTION FIRST TO SEE IF YOUR TRANSLATION ALREADY EXISTS: https://ncase.itch.io/wbwwb (also check the Issues to see if your translation is already being worked on - collaborate with them if they're stuck!)
+*musi ni li jo e ni: sike pi sona sin, en sike pi ike sin, en sike pi tenpo ale*
 
-*a game about news cycles, vicious cycles, infinite cycles*
-
-**[PLAY](https://ncase.itch.io/wbwwb)**
+**[o musi](https://thewanderverse.github.io/wbwwb-tp/)**
+**[musi pi toki Inli](https://ncase.itch.io/wbwwb)**
 
 ---
 
-### Made with open culture, for open culture!
+### musi ni li tan jan Nicky Case.
+### ante toki ni li tan ijo Tojoko.
 
-I'm releasing all my code and art to the public domain, under the [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) un-license. Which means if you wanna remix this to make your own way-too-meta game, or use it in a presentation or classroom or whatever, you already have my permission!
+mi pali e ante toki ni tan **mun pi ante toki** lon [ma pona pi toki pona (ilo Siko)](https://discord.gg/nW9XP78M)
+*jan ale* li ken kepeken e sitelen e toki pi ilo nanpa lon musi ni tan [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/).
+taso, jan Nicky Case li pali ala e ijo *ale* lon musi ona. o lukin e pali pi jan ante lon anpa:
 
-However, not *all* the code/art is mine. Credit's due where credit's due, so...
+**toki pi ilo nanpa:**    
+- [PIXI.js](https://github.com/pixijs/pixi.js) li sitelen e sitelen (MIT License)    
+- [Howler.js](https://github.com/goldfire/howler.js) li kalama e kalama (MIT License)
 
-**CODE:**    
-- [PIXI.js](https://github.com/pixijs/pixi.js), for rendering the graphics (MIT License)    
-- [Howler.js](https://github.com/goldfire/howler.js), for playing the sounds (MIT License)
-
-**SOUNDS:**    
-- [squeak!](https://www.freesound.org/people/ermfilm/sounds/130011/) (CC BY)    
+**kalama:**    
+- [mu!](https://www.freesound.org/people/ermfilm/sounds/130011/) (CC BY)    
 - [park ambience](https://www.freesound.org/people/Mafon2/sounds/274175/) (CC Zero)    
 - [camera shutter](https://www.freesound.org/people/uEffects/sounds/207865/) (CC Zero)    
 - [single cricket](https://www.freesound.org/people/cs272/sounds/77034/) (CC-BY)    
@@ -32,5 +32,5 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 - [creepy warp sound](https://www.freesound.org/people/Andromadax24/sounds/184476/) (CC BY)        
 - [crowd screaming](https://www.freesound.org/people/MultiMax2121/sounds/156860/) (CC Zero)        
 
-**ART:**    
-- For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
+**sitelen:**    
+- pini la, jan Nicky Case li ante e [sitelen pi ilo nanpa supa](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
