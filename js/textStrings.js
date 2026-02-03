@@ -826,68 +826,69 @@ var textStrings_TP = {
 	// Act 1
 	"niceHat": "AAA LEN LAWA PONA A",
 	"outtaHere": "aaa o weka a tan ma ni",
-	"getARoom": "JAKI A, O PINI E JAKI NI",
+	"getARoom": "JAKI A, SINA TU O PINI E ONA",
 	"notCoolAnymore": "tenpo ni la len lawa li pona ala",
-	"tvOnTv": "SITELEN TAWA...LI INSA SITELEN TAWA!",
+	"tvOnTv": "SITELEN TAWA LI INSA SITELEN TAWA!",
 	"cricky": "PIPI LILI A <3",
 	"tooManyCrickets": "ike a ni li pipi mute",
 	"normalPeep": "jan li lon",
 	"normalPeeps": "kulupu jan li lon",
-	"wowNothing": "WAWA AAA, NI LI ALA",
+	"wowNothing": "WAWA A, NI LI ALA",
 
 	// Act 2
-	"crazySquareAttacks": "LEKO LI KAMA UTALA",
+	"crazySquareAttacks": "LEKO IKE LI UTALA",
 	"justMissed": "aaaaaa tenpo ike a",
-	"somethingInteresting": "(sina wile sitelen e ijo *musi* tan jan ni...)",
-	"whoIsScreaming": "(sina wile sitelen e jan pi kalama wawa)",
+	"somethingInteresting": "(sina wile sitelen e ijo *musi*...)",
+	"whoIsScreaming": "(sina wile sitelen e jan pi mu wawa)",
 	"circleFearsSquares": "SIKE LI PILIN MONSUTA TAN LEKO",
-	"whoScaresThem": "(jan ni li pilin monsuta *tan* jan ante la sina wile sitelen e jan ante)",
-	"areTheyScared": "(jan ni li pilin monsuta *e* jan ante la sina wile sitelen e jan ante)", // not used
+	"whoScaresThem": "(jan li pilin monsuta *tan* jan ante\nla sina wile sitelen e ni)",
+	"areTheyScared": "nasa o nasa a!", // not used
 	"squaresSnubCircles": "SIKE LI JAKI TAWA LEKO",
-	"areTheySnubbed": "(leko li pilin jaki tan sike la sina wile sitelen e ona)", // not used
+	"areTheySnubbed": "sina lukin e ni la o kute e jan Opa", // not used
 	"everyoneHates": "JAN ALE LI IKE TAWA JAN ALE!!1!",
 	"almostEveryoneHates": "JAN MUTE LI IKE TAWA JAN MUTE...",
 	"squaresHateCircles": "SIKE LI IKE TAWA LEKO",
 	"circlesHateSquares": "LEKO LI IKE TAWA SIKE",
-	"areTheyYelling": "(jan ni li *kalama wawa* tawa jan ante la sina wile sitelen e ona", // not used
+	"areTheyYelling": "did you know the Happy Weirdo's screaming sound in this game is the same one used in Deltarune for certain Shadowguys? also, spamtenna and seavil 4 evar >:)!!!", // not used
 	"nerdsNow": "jan nasa ni li seme",
 	"schockedPeep": "jan ni li pilin monsuta tan seme?",
 	"whatever": "kijetesantakalu",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "len lawa li kama pona ala. sina sona ala sona?",
+	"coolNoMore": "len lawa li kama pona ala.\nsina sona ala sona?",
 	"beScared": "O MONSUTA. O UTALA.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"jan seme li wile lukin e jan pi *pana pona*?",
+		"jan seme li wile lukin e *pana pona*?",
 		"pona li ike. utala li musi.",
-		//"peace is boring. conflict gets clicks." ,
-		"kin toki musi ale li wile e utala la...",
+		//"peace is boring. conflict gets clicks." 
+		//"and since every story needs a conflict..." ,
+		"toki musi ale li wile jo e utala la...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"...JAN PI WILE MUSI O KAMA JO E MUSI."
+		"O PANA E MUSI WILE TAWA JAN LUKIN."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
 	"playingTime": "tenpo musi pi musi ni li lili a",
-	"warning": "o awen! musi ni li jo e sitelen\nni: pilin jaki en utala en\nmoli mute. sina o sona e\nken sina pi pilin ike.",
+	"warning": "o awen! musi ni li jo e sitelen\nni: pilin jaki en utala ike\nen moli mute. sina o sona\ne ken sina pi pilin ike.",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "O ALASA EN NENA",
+	"pointAndClick": "O ALASA O LUKA",
 
 	// (chyron3.png)
-	"chyronNothing": "WAWA AAA, NI LI *ALA*",
+	"chyronNothing": "WAWA A, NI LI *ALA*",
 
 	// (credits0001.png)
-	"createdBy": "musi ni li tan",
-	"NickyCase": "jan Nicky Case",
+	"createdBy": "musi ni li tan jan",
+	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "mi wile pana e pona mute tawa jan mi pi alasa pakala:",
+	"manyThanks": "pona tawa jan mi pi alasa pakala:",
 
 	// (credits000[3,4,5,6].png)
 	"patreonSupporters": "kin pona tawa jan mi pi pana mani:",
@@ -914,7 +915,7 @@ var textStrings_TP = {
 	"toBeContinued": "(musi mute li kama!)",
 
 	// (quote0002.png)
-	"WBWWB": "mi ale li jo e ijo la, mi ale li kama ijo ni.",
+	"WBWWB": "We become what we behold.",
 	"WSOTATOTSU": "jan li pali e ilo la, ilo li pali e jan.",
 
 	// (quote0003.png)
@@ -923,5 +924,4 @@ var textStrings_TP = {
 	// (quote0004.png)
 	"misatrributed": "(taso toki ni li tan jan ante)",
 };
-
 var textStrings = textStrings_TP;
