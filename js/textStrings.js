@@ -836,7 +836,7 @@ var textStrings_TP = {
 	"wowNothing": "WAWA A, NI LI ALA",
 
 	// Act 2
-	"crazySquareAttacks": "LEKO IKE LI UTALA",
+	"crazySquareAttacks": "LEKO IKE LI KAMA UTALA",
 	"justMissed": "aaaaaa tenpo ike a",
 	"somethingInteresting": "(sina wile sitelen e ijo *musi*...)",
 	"whoIsScreaming": "(sina wile sitelen e jan pi mu wawa)",
@@ -884,14 +884,14 @@ var textStrings_TP = {
 	"chyronNothing": "WAWA A, NI LI *ALA*",
 
 	// (credits0001.png)
-	"createdBy": "musi ni li tan jan",
+	"createdBy": "tan jan",
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "pona tawa jan mi pi alasa pakala:",
+	"manyThanks": "pona tawa jan pi alasa pakala",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "kin pona tawa jan mi pi pana mani:",
+	"patreonSupporters": "kin pona tawa jan mi pi pana mani",
 
 	// (credits0007.png)
 	"lastButNotLeast": "kin pini la,",
