@@ -824,9 +824,9 @@ var textStrings_TR = {
 };
 var textStrings_TP = {
 	// Act 1
-	"niceHat": "AAA LEN LAWA PONA A",
-	"outtaHere": "aaa o weka a tan ma ni",
-	"getARoom": "JAKI A, SINA TU O PINI E ONA",
+	"niceHat": "LEN LAWA PONA A!",
+	"outtaHere": "a a, o weka tan ma ni",
+	"getARoom": "JAKI A, SINA TU O PINI",
 	"notCoolAnymore": "tenpo ni la len lawa li pona ala",
 	"tvOnTv": "SITELEN TAWA LI INSA SITELEN TAWA!",
 	"cricky": "PIPI LILI A <3",
@@ -842,14 +842,14 @@ var textStrings_TP = {
 	"whoIsScreaming": "(sina wile sitelen e jan pi mu wawa)",
 	"circleFearsSquares": "SIKE LI PILIN MONSUTA TAN LEKO",
 	"whoScaresThem": "(jan li pilin monsuta *tan* jan ante\nla sina wile sitelen e ni)",
-	"areTheyScared": "nasa o nasa a!", // not used
+	"areTheyScared": "(jan li pilin monsuta *e* jan ante\nla sina wile sitelen e ni)", // not used
 	"squaresSnubCircles": "SIKE LI JAKI TAWA LEKO",
-	"areTheySnubbed": "sina lukin e ni la o kute e jan Opa", // not used
+	"areTheySnubbed": "(leko li pilin jaki tan sike\nla sina wile sitelen e ona)", // not used
 	"everyoneHates": "JAN ALE LI IKE TAWA JAN ALE!!1!",
 	"almostEveryoneHates": "JAN MUTE LI IKE TAWA JAN MUTE...",
 	"squaresHateCircles": "SIKE LI IKE TAWA LEKO",
 	"circlesHateSquares": "LEKO LI IKE TAWA SIKE",
-	"areTheyYelling": "did you know the Happy Weirdo's screaming sound in this game is the same one used in Deltarune for certain Shadowguys? also, spamtenna and seavil 4 evar >:)!!!", // not used
+	"areTheyYelling": "(jan ni li *kalama wawa* tawa jan ante\nla sina wile sitelen e ona", // the original text says this wasn't used but turns out it was and idk abt the other ones so wutevurzz
 	"nerdsNow": "jan nasa ni li seme",
 	"schockedPeep": "jan ni li pilin monsuta tan seme?",
 	"whatever": "kijetesantakalu",
@@ -862,19 +862,19 @@ var textStrings_TP = {
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"jan seme li wile lukin e *pana pona*?",
+		"jan seme li wile lukin e\njan pi *pana pona*?",
 		"pona li ike. utala li musi.",
 		//"peace is boring. conflict gets clicks." 
 		//"and since every story needs a conflict..." ,
-		"toki musi ale li wile jo e utala la...",
+		"toki musi ale li wile\njo e utala la...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"O PANA E MUSI WILE TAWA JAN LUKIN."
+		"O PANA E IJO WILE TAWA JAN LUKIN."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
-	"playingTime": "tenpo musi pi musi ni li lili a",
+	"playingTime": "tenpo pi musi ni li lili a",
 	"warning": "o awen! musi ni li jo e sitelen\nni: pilin jaki en utala ike\nen moli mute. sina o sona\ne ken sina pi pilin ike.",
 
 	// (cam-instructions.png) Camera Instructions
