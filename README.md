@@ -1,3 +1,4 @@
+### WE BECOME WHAT WE BEHOLD (toki pona translation)
 ![banner](https://i.imgur.com/f6FcrhT.png)
 
 *musi ni li jo e ni: sike pi sona sin, en sike pi ike sin, en sike pi tenpo ale*
