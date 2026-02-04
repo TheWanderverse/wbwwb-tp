@@ -1,6 +1,4 @@
-### WE BECOME WHAT WE BEHOLD (toki pona translation)
 ![banner](https://i.imgur.com/f6FcrhT.png)
-
 *musi ni li jo e ni: sike pi sona sin, en sike pi ike sin, en sike pi tenpo ale*
 
 **[o musi](https://thewanderverse.github.io/wbwwb-tp/)**
@@ -9,8 +7,8 @@
 
 ---
 
-### musi ni li tan Nicky Case (jan Niki Kese).
-### ante toki ni li tan ijo Tojoko.
+### musi li tan jan Nicky Case (Niki Kese).
+### ante toki pi toki pona li tan ijo Tojoko.
 
 mi pali e ante toki ni tan **mun pi ante toki** lon [ma pona pi toki pona (ilo Siko)](https://discord.gg/nW9XP78M).
 
