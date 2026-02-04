@@ -824,11 +824,11 @@ var textStrings_TR = {
 };
 var textStrings_TP = {
 	// Act 1
-	"niceHat": "LEN LAWA PONA A!",
+	"niceHat": "WAWA A, LEN LAWA PONA A",
 	"outtaHere": "a a, o weka tan ma ni",
-	"getARoom": "JAKI A, SINA TU O PINI",
+	"getARoom": "JAKI A, SINA TU O PINI E ONA",
 	"notCoolAnymore": "tenpo ni la len lawa li pona ala",
-	"tvOnTv": "SITELEN TAWA LI INSA SITELEN TAWA!",
+	"tvOnTv": "SITELEN TAWA...\nLI INSA SITELEN TAWA!",
 	"cricky": "PIPI LILI A <3",
 	"tooManyCrickets": "ike a ni li pipi mute",
 	"normalPeep": "jan li lon",
@@ -849,7 +849,7 @@ var textStrings_TP = {
 	"almostEveryoneHates": "JAN MUTE LI IKE TAWA JAN MUTE...",
 	"squaresHateCircles": "SIKE LI IKE TAWA LEKO",
 	"circlesHateSquares": "LEKO LI IKE TAWA SIKE",
-	"areTheyYelling": "(jan ni li *kalama wawa* tawa jan ante\nla sina wile sitelen e ona", // the original text says this wasn't used but turns out it was and idk abt the other ones so wutevurzz
+	"areTheyYelling": "(jan li *kalama wawa* tawa jan ante\nla sina wile sitelen e ona", // the original text says this wasn't used but turns out it was and idk abt the other ones so wutevurzz
 	"nerdsNow": "jan nasa ni li seme",
 	"schockedPeep": "jan ni li pilin monsuta tan seme?",
 	"whatever": "kijetesantakalu",
@@ -868,7 +868,7 @@ var textStrings_TP = {
 		//"and since every story needs a conflict..." ,
 		"toki musi ale li wile\njo e utala la...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"O PANA E IJO WILE TAWA JAN LUKIN."
+		"O PANA E IJO WILE\nTAWA JAN LUKIN."
 	],
 
 	// -- Strings currently in graphics resources --
