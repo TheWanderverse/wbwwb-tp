@@ -7,7 +7,7 @@
 **[musi pi toki Inli](https://ncase.itch.io/wbwwb)**
 
 ---
-
+### *"jan li lukin e ijo la jan li kama ijo."*
 ### musi li tan jan Nicky Case (Niki Kese).
 ### ante toki pi toki pona li tan ijo Tojoko.
 
