@@ -826,19 +826,19 @@ var textStrings_TP = {
 	// Act 1
 	"niceHat": "WAWA A, LEN LAWA PONA A",
 	"outtaHere": "a a, o weka tan ma ni",
-	"getARoom": "JAKI A, SINA TU O PINI E ONA",
+	"getARoom": "JAKI A, SINA TU O PINI E NI",
 	"notCoolAnymore": "tenpo ni la len lawa li pona ala",
-	"tvOnTv": "SITELEN TAWA...\nLI INSA SITELEN TAWA!",
+	"tvOnTv": "SITELEN TAWA...\nLI LON SITELEN TAWA!",
 	"cricky": "PIPI LILI A <3",
 	"tooManyCrickets": "ike a ni li pipi mute",
 	"normalPeep": "jan li lon",
-	"normalPeeps": "kulupu jan li lon",
+	"normalPeeps": "jan mute li lon",
 	"wowNothing": "WAWA A, NI LI ALA",
 
 	// Act 2
 	"crazySquareAttacks": "LEKO IKE LI KAMA UTALA",
-	"justMissed": "aaaaaa tenpo ike a",
-	"somethingInteresting": "(sina wile sitelen e ijo *musi*...)",
+	"justMissed": "aaaaaa sitelen la tenpo ike a",
+	"somethingInteresting": "(sina wile sitelen e ni:\njan li pali e *ijo*...)",
 	"whoIsScreaming": "(sina wile sitelen e jan pi mu wawa)",
 	"circleFearsSquares": "SIKE LI PILIN MONSUTA TAN LEKO",
 	"whoScaresThem": "(jan li pilin monsuta *tan* jan ante\nla sina wile sitelen e ni)",
@@ -857,13 +857,13 @@ var textStrings_TP = {
 	// Act 3
 	"ellipsis": ". . .",
 	"coolNoMore": "len lawa li kama pona ala.\nsina sona ala sona?",
-	"beScared": "O MONSUTA. O UTALA.",
+	"beScared": "O PILIN MONSUTA. O PILIN UTALA.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
 		"jan seme li wile lukin e\njan pi *pana pona*?",
-		"pona li ike. utala li musi.",
+		"pona li musi ala.\nutala li kama e lukin.",
 		//"peace is boring. conflict gets clicks." 
 		//"and since every story needs a conflict..." ,
 		"toki musi ale li wile\njo e utala la...",
@@ -908,7 +908,7 @@ var textStrings_TP = {
 	"replayButton": "o musi e pakala ni lon tenpo sin",
 
 	// (logo.png) Post Credits
-	"logoWBWWB": "O PANA E IKE:",
+	"logoWBWWB": "O PANA SIN E PILIN IKE:",
 
 	// (end_prototype.png)
 	"endOfPrototype": "PINI PI MUSI SIN NANPA WAN",
