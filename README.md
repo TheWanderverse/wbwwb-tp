@@ -7,9 +7,9 @@
 **[musi pi toki Inli](https://ncase.itch.io/wbwwb)**
 
 ---
-### *"jan li lukin e ijo la jan li kama ijo."*
 ### musi li tan jan Nicky Case (Niki Kese).
 ### ante toki pi toki pona li tan ijo Tojoko.
+### (jan Tepo li pona e pakala lili pi ante toki. pona tawa sina!)
 
 mi pali e ante toki ni tan **mun pi ante toki** lon [ma pona pi toki pona (ilo Siko)](https://discord.gg/nW9XP78M).
 
